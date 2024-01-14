@@ -6,7 +6,7 @@
 使用Docker环境和Jupyter notebook用于评估。
 
 
-### 步骤: 准备`docker-compose.yaml`
+### 准备`docker-compose.yaml`
 -------------------------
 
 - 通过复制 Docker Compose 模板文件  `cp docker-compose.yaml.template docker-compose.yaml` 创建一个 Docker Compose 文件
